@@ -42,12 +42,6 @@ I’m a **final-year MCA student** passionate about building practical software 
 ## 📊 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/rohit_kumar9914/">
-    <img src="https://leetcard.jacoblin.cool/rohit_kumar9914?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode statistics for Rohit Kumar" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/u/rohit_kumar9914/"><img src="https://img.shields.io/badge/LeetCode-252%20problems%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="252 LeetCode problems solved" /></a>
   <a href="https://www.geeksforgeeks.org/profile/rohitkumar7786063561/"><img src="https://img.shields.io/badge/GeeksforGeeks-182%20problems%20solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="182 GeeksforGeeks problems solved" /></a>
 </p>
@@ -55,7 +49,6 @@ I’m a **final-year MCA student** passionate about building practical software 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Rohit7824567"><img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit7824567&theme=dark&hide_border=true&layout=compact" alt="Rohit's most-used programming languages" /></a>
   <a href="https://github.com/Rohit7824567"><img height="165" src="https://img.shields.io/github/followers/Rohit7824567?style=for-the-badge&label=GitHub%20followers" alt="Rohit's GitHub followers" /></a>
 </p>
 
