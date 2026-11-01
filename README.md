@@ -39,6 +39,12 @@ I’m a **final-year MCA student** passionate about building practical software 
 **Tools**  
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
+### 🤖 AI & Agentic AI
+
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-Explore-8A2BE2?style=flat-square&logo=scikitlearn&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning) [![Generative AI](https://img.shields.io/badge/Generative_AI-Learning-6A5ACD?style=flat-square)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) [![Agentic AI](https://img.shields.io/badge/Agentic_AI-Explore-483D8B?style=flat-square)](https://en.wikipedia.org/wiki/Intelligent_agent)
+
+[![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)](https://www.langchain.com/) [![LangGraph](https://img.shields.io/badge/LangGraph-Framework-2F6F68?style=flat-square)](https://www.langchain.com/langgraph)
+
 ## 📊 Coding Profiles
 
 <p align="center">
