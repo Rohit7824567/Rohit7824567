@@ -55,8 +55,8 @@ I’m a **final-year MCA student** passionate about building practical software 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Rohit7824567"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohit7824567&show_icons=true&theme=tokyonight&hide_border=true" alt="Rohit's GitHub statistics" /></a>
-  <a href="https://github.com/Rohit7824567"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit7824567&layout=compact&theme=tokyonight&hide_border=true" alt="Rohit's most-used programming languages" /></a>
+  <a href="https://github.com/Rohit7824567"><img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit7824567&theme=dark&hide_border=true&layout=compact" alt="Rohit's most-used programming languages" /></a>
+  <a href="https://github.com/Rohit7824567"><img height="165" src="https://img.shields.io/github/followers/Rohit7824567?style=for-the-badge&label=GitHub%20followers" alt="Rohit's GitHub followers" /></a>
 </p>
 
 <p align="center">
