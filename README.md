@@ -53,7 +53,7 @@ I’m a **final-year MCA student** passionate about building practical software 
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rohit7824567"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit7824567&theme=tokyonight&hide_border=true" alt="Rohit's GitHub contribution streak" /></a>
+  <a href="https://github.com/Rohit7824567"><img src="https://komarev.com/ghpvc/?username=Rohit7824567&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Rohit's GitHub profile views" /></a>
 </p>
 
 ---
